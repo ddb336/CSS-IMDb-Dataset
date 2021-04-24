@@ -1,489 +1,489 @@
-title,title_sentiment_score,text_sentiment_score,date,rating
-" Very well made movie
+title_id,review_title,review_title_sentiment_score,review_text_sentiment_score,date,rating
+tt5929776," Very well made movie
 ",0.3384,0.8602,2020-12-04 00:00:00,8
-" Great documentary that clearly shows and helps understand about our world and what we can do to help our world.
+tt5929776," Great documentary that clearly shows and helps understand about our world and what we can do to help our world.
 ",0.9022,0.9788,2020-12-04 00:00:00,10
-" The messages of Before the Flood
+tt5929776," The messages of Before the Flood
 ",0.0,0.5256,2020-11-30 00:00:00,10
-" We need changes
+tt5929776," We need changes
 ",0.0,0.9935,2020-11-16 00:00:00,9
-" Before the Flood
+tt5929776," Before the Flood
 ",0.0,0.9603,2020-11-07 00:00:00,9
-" We are on time to act
+tt5929776," We are on time to act
 ",0.0,0.8583,2020-10-12 00:00:00,10
-" A good start for a change
+tt5929776," A good start for a change
 ",0.4404,0.7453,2020-10-12 00:00:00,10
-" A Little Change
+tt5929776," A Little Change
 ",0.0,0.2641,2020-10-12 00:00:00,10
-" ¿How did we get to this?
+tt5929776," ¿How did we get to this?
 ",0.0,0.9266,2020-10-12 00:00:00,10
-" We are the solution
+tt5929776," We are the solution
 ",0.3182,0.9766,2020-10-12 00:00:00,10
-" ""You are the last best hope of Earth. We ask you to protect it or we, and all living things we cherish, are history."" (Leonardo Dicarpio).
+tt5929776," ""You are the last best hope of Earth. We ask you to protect it or we, and all living things we cherish, are history."" (Leonardo Dicarpio).
 ",0.9062,0.9339,2020-06-03 00:00:00,10
-" Knowing more about what is happening with our home
+tt5929776," Knowing more about what is happening with our home
 ",0.0,0.9825,2020-06-03 00:00:00,9
-" Let's see what we've done
+tt5929776," Let's see what we've done
 ",0.0,0.8102,2020-06-02 00:00:00,10
-" A thought-provoking documentary about the reality we are facing nowadays
+tt5929776," A thought-provoking documentary about the reality we are facing nowadays
 ",0.0,0.5717,2020-05-29 00:00:00,10
-" Personal opinion
+tt5929776," Personal opinion
 ",0.0,-0.3043,2020-05-29 00:00:00,10
-" Earth.
+tt5929776," Earth.
 ",0.0,0.9001,2020-05-09 00:00:00,8
-" THOUGHT PROVOKING AWARENESS ON CLIMATE CHANGE
+tt5929776," THOUGHT PROVOKING AWARENESS ON CLIMATE CHANGE
 ",-0.2023,0.9764,2020-05-08 00:00:00,10
-" the documentary Overpriced exposed the carbon tax as a scam
+tt5929776," the documentary Overpriced exposed the carbon tax as a scam
 ",-0.6124,0.9882,2020-05-02 00:00:00,6
-" DiCaprio, really!
+tt5929776," DiCaprio, really!
 ",0.0,-0.3595,2020-04-22 00:00:00,7
-" Oh please Leo fix us pretty please
+tt5929776," Oh please Leo fix us pretty please
 ",0.7783,-0.2023,2020-04-07 00:00:00,1
-" Climate change is coming
+tt5929776," Climate change is coming
 ",0.0,0.8658,2020-03-16 00:00:00,9
-" before the flood
+tt5929776," before the flood
 ",0.0,-0.7509,2020-03-12 00:00:00,9
-" Watch and behave
+tt5929776," Watch and behave
 ",0.0,-0.148,2020-03-12 00:00:00,10
-" Before the flood
+tt5929776," Before the flood
 ",0.0,0.1513,2020-03-12 00:00:00,9
-" It's still a huge problem until now
+tt5929776," It's still a huge problem until now
 ",-0.1027,-0.2568,2020-03-12 00:00:00,9
-" This film makes me worried about nature in the future
+tt5929776," This film makes me worried about nature in the future
 ",-0.296,0.1363,2020-03-11 00:00:00,9
-" Wtf !!!! So scared !!!
+tt5929776," Wtf !!!! So scared !!!
 ",-0.8466,0.8972,2020-03-11 00:00:00,10
-" EYE-OPENING DOCUMENTARY.
+tt5929776," EYE-OPENING DOCUMENTARY.
 ",0.0,0.9069,2020-02-22 00:00:00,9
-" Scrap Global Warming, now it is Climate Change
+tt5929776," Scrap Global Warming, now it is Climate Change
 ",0.1531,0.3612,2020-02-14 00:00:00,1
-" Very informative
+tt5929776," Very informative
 ",0.0,0.8122,2020-02-05 00:00:00,9
-" I actually liked everything about this documentary
+tt5929776," I actually liked everything about this documentary
 ",0.4215,0.9961,2020-01-29 00:00:00,10
-" As big a Hypocrite as Al Gore?
+tt5929776," As big a Hypocrite as Al Gore?
 ",0.0,-0.6557,2019-11-25 00:00:00,1
-" An impressive and powerful movie that is life changing
+tt5929776," An impressive and powerful movie that is life changing
 ",0.7269,0.9772,2019-11-20 00:00:00,10
-" Save our planet
+tt5929776," Save our planet
 ",0.4939,0.6946,2019-11-18 00:00:00,10
-" Kick in the gut. Informative, riveting wake up call to understand the immediate dangers of global warming.
+tt5929776," Kick in the gut. Informative, riveting wake up call to understand the immediate dangers of global warming.
 ",-0.3818,0.9312,2019-11-17 00:00:00,9
-" You can not miss this amazing documentary
+tt5929776," You can not miss this amazing documentary
 ",0.7135,0.9704,2019-11-15 00:00:00,9
-" The Garden of Earthly Delights
+tt5929776," The Garden of Earthly Delights
 ",0.4588,0.8985,2019-11-15 00:00:00,10
-" Time to do something
+tt5929776," Time to do something
 ",0.0,-0.3453,2019-11-13 00:00:00,10
-" Are you sure to know about serious environment issues?
+tt5929776," Are you sure to know about serious environment issues?
 ",0.25,-0.8594,2019-11-13 00:00:00,10
-" It is time to face what real is.
+tt5929776," It is time to face what real is.
 ",0.0,-0.9829,2019-11-13 00:00:00,9
-" Should we worry about climate change?
+tt5929776," Should we worry about climate change?
 ",-0.4404,-0.9625,2019-11-13 00:00:00,10
-" Great and entertaining documentary
+tt5929776," Great and entertaining documentary
 ",0.7906,0.4927,2019-11-13 00:00:00,10
-" We have to stop. We are killing our house.
+tt5929776," We have to stop. We are killing our house.
 ",-0.765,0.7357,2019-11-13 00:00:00,9
-" ""time to change""
+tt5929776," ""time to change""
 ",0.0,0.8227,2019-11-13 00:00:00,9
-" Shocking
+tt5929776," Shocking
 ",-0.4019,0.6124,2019-11-13 00:00:00,9
-" A powerful message
+tt5929776," A powerful message
 ",0.4215,0.1689,2019-11-13 00:00:00,10
-" A big influence to change the world
+tt5929776," A big influence to change the world
 ",0.0,0.2363,2019-11-13 00:00:00,10
-" Eye opening movie
+tt5929776," Eye opening movie
 ",0.0,-0.3716,2019-08-31 00:00:00,10
-" movie with interesting facts
+tt5929776," movie with interesting facts
 ",0.4019,0.914,2019-08-22 00:00:00,8
-" An amazing documentary to change our minds
+tt5929776," An amazing documentary to change our minds
 ",0.5859,0.9466,2019-08-22 00:00:00,9
-" Good documentary
+tt5929776," Good documentary
 ",0.4404,0.6266,2019-08-22 00:00:00,8
-" what can we do for change the earth
+tt5929776," what can we do for change the earth
 ",0.0,0.7558,2019-08-22 00:00:00,10
-" What about global warming?
+tt5929776," What about global warming?
 ",0.1531,0.9896,2019-08-22 00:00:00,9
-" a good movie
+tt5929776," a good movie
 ",0.4404,0.8548,2019-08-22 00:00:00,9
-" a very thought-provoking movie which led me think about the world's biggest issue more than ever
+tt5929776," a very thought-provoking movie which led me think about the world's biggest issue more than ever
 ",0.0,0.893,2019-08-22 00:00:00,10
-" Informative and thought-provoking movie about climate change
+tt5929776," Informative and thought-provoking movie about climate change
 ",0.0,0.8349,2019-08-22 00:00:00,10
-" Our planet IS in danger
+tt5929776," Our planet IS in danger
 ",-0.5267,0.6539,2019-08-22 00:00:00,10
-" Inspiring !
+tt5929776," Inspiring !
 ",0.4753,0.3382,2019-08-22 00:00:00,8
-" You have to watch this movie now!
+tt5929776," You have to watch this movie now!
 ",0.0,0.9364,2019-08-22 00:00:00,10
-" There are a lot reasonable strong messages.
+tt5929776," There are a lot reasonable strong messages.
 ",0.5106,0.9684,2019-08-22 00:00:00,9
-" We should consider our environment and preserve our earth
+tt5929776," We should consider our environment and preserve our earth
 ",0.0,-0.6718,2019-08-22 00:00:00,10
-" It is time to take action for our planet.
+tt5929776," It is time to take action for our planet.
 ",0.0,0.62,2019-08-22 00:00:00,10
-" Before the Flood - Short Review
+tt5929776," Before the Flood - Short Review
 ",0.0,0.8479,2019-08-22 00:00:00,9
-" Our Planet Is Changing
+tt5929776," Our Planet Is Changing
 ",0.0,0.9623,2019-08-22 00:00:00,10
-" Completely appaling
+tt5929776," Completely appaling
 ",0.0,0.8705,2019-08-22 00:00:00,7
-" Great documentary about the climate change & global warming
+tt5929776," Great documentary about the climate change & global warming
 ",0.6908,0.7096,2019-08-22 00:00:00,9
-" How to change the world with a single movie
+tt5929776," How to change the world with a single movie
 ",0.0,0.8834,2019-08-22 00:00:00,10
-" message to our future
+tt5929776," message to our future
 ",0.0,0.24,2019-08-22 00:00:00,9
-" Really amazing and deeply touching
+tt5929776," Really amazing and deeply touching
 ",0.624,0.9438,2019-08-22 00:00:00,10
-" Our planet, our home. It is our responsibility to take care of it.
+tt5929776," Our planet, our home. It is our responsibility to take care of it.
 ",0.4939,-0.818,2019-06-06 00:00:00,10
-" I like it =)
+tt5929776," I like it =)
 ",0.6908,0.872,2019-06-06 00:00:00,10
-" We have to act now
+tt5929776," We have to act now
 ",0.0,0.9686,2019-06-06 00:00:00,9
-" Let's re-think about our planet
+tt5929776," Let's re-think about our planet
 ",0.0,0.7717,2019-06-06 00:00:00,8
-" A perfect way to explain what our world is going through.
+tt5929776," A perfect way to explain what our world is going through.
 ",0.5719,-0.9099,2019-06-05 00:00:00,10
-" Very good movie that explain climate changes problems and possible solutions
+tt5929776," Very good movie that explain climate changes problems and possible solutions
 ",0.2944,0.9488,2019-06-05 00:00:00,10
-" Feeling after seeing before the flood
+tt5929776," Feeling after seeing before the flood
 ",0.128,0.1655,2019-06-05 00:00:00,9
-" What are we doing? Sorry Hearth!
+tt5929776," What are we doing? Sorry Hearth!
 ",-0.1511,-0.3511,2019-06-05 00:00:00,10
-" Great, but doesn't get the message across
+tt5929776," Great, but doesn't get the message across
 ",0.3716,0.8302,2019-06-05 00:00:00,7
-" We have to give the first step!
+tt5929776," We have to give the first step!
 ",0.0,0.831,2019-06-05 00:00:00,10
-" Before the Flood review
+tt5929776," Before the Flood review
 ",0.0,0.8658,2019-06-05 00:00:00,9
-" Great Movie!
+tt5929776," Great Movie!
 ",0.6588,-0.9119,2019-06-05 00:00:00,9
-" Fascinating movie
+tt5929776," Fascinating movie
 ",0.5423,0.5707,2019-06-05 00:00:00,10
-" A really good film because it shows people how important global warming is
+tt5929776," A really good film because it shows people how important global warming is
 ",0.6801,-0.5936,2019-06-05 00:00:00,10
-" A very interesting and well made movie
+tt5929776," A very interesting and well made movie
 ",0.6549,0.6178,2019-06-05 00:00:00,9
-" It's up all to us
+tt5929776," It's up all to us
 ",0.0,-0.6238,2019-06-05 00:00:00,10
-" A must see movie, a real issue, our planet deserves it
+tt5929776," A must see movie, a real issue, our planet deserves it
 ",0.0,0.9849,2019-06-05 00:00:00,10
-" It is our responsibility to protect the Earth Planet
+tt5929776," It is our responsibility to protect the Earth Planet
 ",0.3818,0.1046,2019-06-05 00:00:00,9
-" A thought-provoking world that I never concern.
+tt5929776," A thought-provoking world that I never concern.
 ",0.0,0.9508,2019-06-05 00:00:00,10
-" one step to hold down the climate
+tt5929776," one step to hold down the climate
 ",0.0,0.8731,2019-06-05 00:00:00,9
-" HUGE EXPLANATION AND AN EXCELLENT SENSE OF PERTINENCE TO TAKE CARE THE PLANET
+tt5929776," HUGE EXPLANATION AND AN EXCELLENT SENSE OF PERTINENCE TO TAKE CARE THE PLANET
 ",0.8481,0.7574,2019-06-05 00:00:00,10
-" amazing movie
+tt5929776," amazing movie
 ",0.5859,0.9836,2019-06-05 00:00:00,8
-" A documentary to make people conscious of the danger that climate change represents
+tt5929776," A documentary to make people conscious of the danger that climate change represents
 ",-0.5267,0.8854,2019-06-05 00:00:00,9
-" Everyone should see this!
+tt5929776," Everyone should see this!
 ",0.0,0.9648,2019-05-24 00:00:00,9
-" we have to change our wold
+tt5929776," we have to change our wold
 ",0.0,-0.5709,2019-03-13 00:00:00,7
-" Good Video with great landscapes WATCH THIS NOW.
+tt5929776," Good Video with great landscapes WATCH THIS NOW.
 ",0.7906,0.9797,2019-03-13 00:00:00,8
-" A must see for everyone.
+tt5929776," A must see for everyone.
 ",0.0,0.916,2019-03-13 00:00:00,10
-" environmental issues
+tt5929776," environmental issues
 ",0.0,0.7538,2019-03-13 00:00:00,8
-" We can save the planet
+tt5929776," We can save the planet
 ",0.4939,0.2126,2019-03-13 00:00:00,8
-" climate change, the biggest threat for our planet.
+tt5929776," climate change, the biggest threat for our planet.
 ",-0.5267,0.9828,2019-03-13 00:00:00,10
-" A movie about hope and understanding of climate change
+tt5929776," A movie about hope and understanding of climate change
 ",0.4404,0.9885,2019-03-13 00:00:00,10
-" Leo
+tt5929776," Leo
 ",0.0,0.9369,2019-01-21 00:00:00,8
-" Very Powerful
+tt5929776," Very Powerful
 ",0.4754,0.9836,2019-01-21 00:00:00,8
-" Very Informative!
+tt5929776," Very Informative!
 ",0.0,0.978,2018-11-28 00:00:00,9
-" Informative and Interesting
+tt5929776," Informative and Interesting
 ",0.4019,0.7906,2018-11-26 00:00:00,10
-" Worrisome
+tt5929776," Worrisome
 ",-0.4019,0.9775,2018-11-16 00:00:00,10
-" Incredible documentary that is absolutly mind - blowing
+tt5929776," Incredible documentary that is absolutly mind - blowing
 ",0.0,0.6428,2018-11-16 00:00:00,9
-" We are the last best hope of Earth
+tt5929776," We are the last best hope of Earth
 ",0.7964,0.9858,2018-11-15 00:00:00,10
-" Before the Flood: A View of Reality
+tt5929776," Before the Flood: A View of Reality
 ",0.0,-0.8805,2018-11-15 00:00:00,10
-" When the environment become a disaster
+tt5929776," When the environment become a disaster
 ",-0.6249,0.9481,2018-11-15 00:00:00,9
-" A documentary that will definitely change your mind
+tt5929776," A documentary that will definitely change your mind
 ",0.4019,0.9809,2018-11-15 00:00:00,10
-" Before the Flood
+tt5929776," Before the Flood
 ",0.0,0.5423,2018-11-15 00:00:00,7
-" Resonate Movie
+tt5929776," Resonate Movie
 ",0.0,0.6633,2018-11-15 00:00:00,8
-" BEFORE THE FLOOD, WE NEED TO CHANGE OUR ACTIONS TO ENVIRONMENT.
+tt5929776," BEFORE THE FLOOD, WE NEED TO CHANGE OUR ACTIONS TO ENVIRONMENT.
 ",0.0,-0.1329,2018-11-15 00:00:00,10
-" A perfect movie that reminds you what counts in life
+tt5929776," A perfect movie that reminds you what counts in life
 ",0.5719,0.9912,2018-11-15 00:00:00,10
-" Before The Flood is one of a kind, an amazing documentary that can make people move foreward.
+tt5929776," Before The Flood is one of a kind, an amazing documentary that can make people move foreward.
 ",0.802,0.9872,2018-11-15 00:00:00,10
-" Let's save our planet before it's too late!
+tt5929776," Let's save our planet before it's too late!
 ",0.5411,-0.2177,2018-08-24 00:00:00,9
-" You are the last best hope of the Earth
+tt5929776," You are the last best hope of the Earth
 ",0.7964,0.9043,2018-08-24 00:00:00,10
-" An amazing movie how show you about the impact of the global warming
+tt5929776," An amazing movie how show you about the impact of the global warming
 ",0.6597,0.6801,2018-08-24 00:00:00,9
-" amazing cast not only can act, but also sacrifice for society
+tt5929776," amazing cast not only can act, but also sacrifice for society
 ",0.34,0.4329,2018-08-24 00:00:00,10
-" It's a really thought-provoking movie for me.
+tt5929776," It's a really thought-provoking movie for me.
 ",0.0,0.9556,2018-08-24 00:00:00,10
-" Taking action for protecting our planet from global warming
+tt5929776," Taking action for protecting our planet from global warming
 ",0.1531,-0.2797,2018-08-24 00:00:00,9
-" The reality we are facing.
+tt5929776," The reality we are facing.
 ",0.0,0.5967,2018-08-24 00:00:00,10
-" We have to think about would's climate
+tt5929776," We have to think about would's climate
 ",0.0,0.2865,2018-08-24 00:00:00,8
-" wonderful documentary
+tt5929776," wonderful documentary
 ",0.5719,0.9948,2018-08-24 00:00:00,8
-" Climate changes are for everybody
+tt5929776," Climate changes are for everybody
 ",0.0,-0.864,2018-08-24 00:00:00,10
-" we can do something
+tt5929776," we can do something
 ",0.0,0.907,2018-08-24 00:00:00,10
-" The last call to the Earth's inhabitants
+tt5929776," The last call to the Earth's inhabitants
 ",0.0,0.959,2018-08-24 00:00:00,9
-" Interesting film about climate change
+tt5929776," Interesting film about climate change
 ",0.4019,-0.8235,2018-08-24 00:00:00,10
-" True Facts about the conditions of Mother Earth
+tt5929776," True Facts about the conditions of Mother Earth
 ",0.4215,-0.9052,2018-08-24 00:00:00,10
-" We must save our planet as soon as possible.
+tt5929776," We must save our planet as soon as possible.
 ",0.4939,-0.7399,2018-08-24 00:00:00,10
-" A really experimental movie which try to open our eyes.
+tt5929776," A really experimental movie which try to open our eyes.
 ",0.0,0.4279,2018-08-24 00:00:00,9
-" How we are killing the planet
+tt5929776," How we are killing the planet
 ",-0.6597,0.9441,2018-08-24 00:00:00,10
-" Unsettling....
+tt5929776," Unsettling....
 ",0.0,0.572,2018-08-24 00:00:00,10
-" Unsettling but mind-changing documentary
+tt5929776," Unsettling but mind-changing documentary
 ",0.0,-0.8093,2018-08-24 00:00:00,10
-" Before the Flood is a fascinating, yet terrifying, glimpse into the damage we are doing to our planet
+tt5929776," Before the Flood is a fascinating, yet terrifying, glimpse into the damage we are doing to our planet
 ",-0.5267,-0.6124,2018-04-09 00:00:00,10
-" amazing documentary!!!
+tt5929776," amazing documentary!!!
 ",0.6884,0.9469,2018-04-01 00:00:00,10
-" Perhaps one of the most important documentaries of our time
+tt5929776," Perhaps one of the most important documentaries of our time
 ",0.2716,0.5563,2018-03-23 00:00:00,8
-" Use your clout Leo
+tt5929776," Use your clout Leo
 ",0.0,0.8968,2018-03-21 00:00:00,1
-" Climate Change?
+tt5929776," Climate Change?
 ",0.0,-0.6409,2018-03-21 00:00:00,1
-" Oh, the humanity!
+tt5929776," Oh, the humanity!
 ",0.0,0.7899,2018-02-25 00:00:00,7
-" Good but lacking focus & direction
+tt5929776," Good but lacking focus & direction
 ",0.2382,-0.8299,2018-02-14 00:00:00,5
-" Eye-opening
+tt5929776," Eye-opening
 ",0.0,0.2601,2018-02-07 00:00:00,9
-" We must change our minds from now
+tt5929776," We must change our minds from now
 ",0.0,-0.2911,2018-02-01 00:00:00,7
-" An alarmimg documentary about environmental issues
+tt5929776," An alarmimg documentary about environmental issues
 ",0.0,0.8845,2018-02-01 00:00:00,9
-" A good idea
+tt5929776," A good idea
 ",0.4404,0.9906,2018-02-01 00:00:00,10
-" Good documentary movie
+tt5929776," Good documentary movie
 ",0.4404,0.9766,2018-02-01 00:00:00,8
-" a sincere review
+tt5929776," a sincere review
 ",0.4019,0.9737,2018-02-01 00:00:00,10
-" ""Before The Flood""
+tt5929776," ""Before The Flood""
 ",0.0,0.965,2018-02-01 00:00:00,8
-" before the flood
+tt5929776," before the flood
 ",0.0,0.4742,2018-02-01 00:00:00,8
-" Climate change is real
+tt5929776," Climate change is real
 ",0.0,0.7597,2018-02-01 00:00:00,10
-" Save our planet
+tt5929776," Save our planet
 ",0.4939,0.9913,2018-02-01 00:00:00,9
-" Eye opener
+tt5929776," Eye opener
 ",0.0,0.8102,2018-02-01 00:00:00,10
-" the hidden reality of our planet
+tt5929776," the hidden reality of our planet
 ",0.0,0.3472,2018-02-01 00:00:00,8
-" We need to start now
+tt5929776," We need to start now
 ",0.0,0.9879,2018-02-01 00:00:00,8
-" before the flood
+tt5929776," before the flood
 ",0.0,0.7382,2018-02-01 00:00:00,9
-" before the flood
+tt5929776," before the flood
 ",0.0,0.5049,2018-02-01 00:00:00,8
-" Our planet need to solve
+tt5929776," Our planet need to solve
 ",0.2023,0.6239,2018-02-01 00:00:00,9
-" I really belive that the film express many realities a round the world
+tt5929776," I really belive that the film express many realities a round the world
 ",0.0,0.8358,2018-02-01 00:00:00,7
-" Before the flood
+tt5929776," Before the flood
 ",0.0,0.7548,2018-02-01 00:00:00,9
-" A perfect and realistic movie about global warming
+tt5929776," A perfect and realistic movie about global warming
 ",0.6486,0.9755,2018-02-01 00:00:00,9
-" Take care of our planet
+tt5929776," Take care of our planet
 ",0.4939,0.7956,2018-02-01 00:00:00,10
-" Before the Flood Review Adam
+tt5929776," Before the Flood Review Adam
 ",0.0,0.9661,2018-02-01 00:00:00,10
-" Everybody should watch this movie
+tt5929776," Everybody should watch this movie
 ",0.0,0.8076,2018-02-01 00:00:00,9
-" ""Change Your Mind""
+tt5929776," ""Change Your Mind""
 ",0.0,0.2677,2018-02-01 00:00:00,8
-" We should to act now
+tt5929776," We should to act now
 ",0.0,0.9617,2018-02-01 00:00:00,10
-" Save our planet
+tt5929776," Save our planet
 ",0.4939,0.9544,2018-02-01 00:00:00,9
-" MY OPINION ABOUT THE FILM <3
+tt5929776," MY OPINION ABOUT THE FILM <3
 ",0.4404,0.9891,2018-02-01 00:00:00,8
-" I love the documentary
+tt5929776," I love the documentary
 ",0.6369,-0.2158,2018-02-01 00:00:00,10
-" The global warming should concern everyone.
+tt5929776," The global warming should concern everyone.
 ",0.1531,0.9169,2018-02-01 00:00:00,10
-" We need to act right now!
+tt5929776," We need to act right now!
 ",0.0,-0.7722,2018-02-01 00:00:00,10
-" Good
+tt5929776," Good
 ",0.4404,0.8625,2018-02-01 00:00:00,8
-" You can do something
+tt5929776," You can do something
 ",0.0,0.8155,2018-02-01 00:00:00,10
-" We need to change now
+tt5929776," We need to change now
 ",0.0,0.7644,2018-02-01 00:00:00,9
-" A moving movie about the future reality
+tt5929776," A moving movie about the future reality
 ",0.0,0.9819,2018-02-01 00:00:00,9
-" MY OPINION ABOUT THE FILM <3
+tt5929776," MY OPINION ABOUT THE FILM <3
 ",0.4404,0.9891,2018-02-01 00:00:00,8
-" we should change our lifestyle
+tt5929776," we should change our lifestyle
 ",0.0,0.4939,2018-01-06 00:00:00,10
-" Informative and Conscience-inspiring
+tt5929776," Informative and Conscience-inspiring
 ",0.0,0.1188,2017-11-07 00:00:00,8
-" The documentary is about the global warming, how this affects to us and what can we do to prevent a future disaster
+tt5929776," The documentary is about the global warming, how this affects to us and what can we do to prevent a future disaster
 ",-0.5267,0.9472,2017-10-05 00:00:00,10
-" Great documentary!!
+tt5929776," Great documentary!!
 ",0.6892,0.9215,2017-10-05 00:00:00,10
-" very interesting
+tt5929776," very interesting
 ",0.4576,0.8627,2017-10-05 00:00:00,8
-" The most important things for the world
+tt5929776," The most important things for the world
 ",0.2716,0.9245,2017-10-05 00:00:00,8
-" A reflective film
+tt5929776," A reflective film
 ",0.0,0.9376,2017-10-05 00:00:00,9
-" A inspiring experience
+tt5929776," A inspiring experience
 ",0.4215,0.9661,2017-10-05 00:00:00,9
-" Climate change: the most important issue of our society
+tt5929776," Climate change: the most important issue of our society
 ",0.2716,0.977,2017-10-05 00:00:00,8
-" The film is about the most important problem in the world in this moment.
+tt5929776," The film is about the most important problem in the world in this moment.
 ",-0.2228,0.9271,2017-10-05 00:00:00,7
-" A life lesson, this documentary is essential as human who live on earth and who care about it.
+tt5929776," A life lesson, this documentary is essential as human who live on earth and who care about it.
 ",0.4939,0.9582,2017-10-05 00:00:00,10
-" devastation of environment is proceeded by people
+tt5929776," devastation of environment is proceeded by people
 ",-0.4215,0.2862,2017-10-05 00:00:00,7
-" It's a warning for humans. What you can't believe is truth.
+tt5929776," It's a warning for humans. What you can't believe is truth.
 ",-0.5207,-0.6203,2017-10-05 00:00:00,9
-" Impressive movie about the climate change and its effects
+tt5929776," Impressive movie about the climate change and its effects
 ",0.5106,0.9784,2017-10-05 00:00:00,10
-" ""You created the problem, we will create it in the future""
+tt5929776," ""You created the problem, we will create it in the future""
 ",0.1027,0.5122,2017-10-05 00:00:00,10
-" great movie and Barak Obama's role is incredible
+tt5929776," great movie and Barak Obama's role is incredible
 ",0.6249,0.2247,2017-10-05 00:00:00,10
-" know the present state of the earth. the earth is exposed to a crisis
+tt5929776," know the present state of the earth. the earth is exposed to a crisis
 ",-0.6597,0.8646,2017-08-17 00:00:00,9
-" before the flood
+tt5929776," before the flood
 ",0.0,0.7569,2017-08-17 00:00:00,10
-" Stop global worming. And let as know global worming's danger.
+tt5929776," Stop global worming. And let as know global worming's danger.
 ",-0.6808,-0.2659,2017-08-17 00:00:00,10
-" The Power Of The Global Warming
+tt5929776," The Power Of The Global Warming
 ",0.1531,0.9299,2017-08-17 00:00:00,9
-" Movie about the environment and Global Warming
+tt5929776," Movie about the environment and Global Warming
 ",0.1531,0.9761,2017-08-17 00:00:00,9
-" Before the flood
+tt5929776," Before the flood
 ",0.0,0.7856,2017-08-17 00:00:00,8
-" the environment
+tt5929776," the environment
 ",0.0,0.9743,2017-08-17 00:00:00,8
-" This movie is interesting because, of it is content. The actor's playing is also very good and plesure.
+tt5929776," This movie is interesting because, of it is content. The actor's playing is also very good and plesure.
 ",0.7713,0.9729,2017-08-17 00:00:00,10
-" We can fix the problem that we made, or let the world ends.
+tt5929776," We can fix the problem that we made, or let the world ends.
 ",-0.4019,0.5503,2017-08-17 00:00:00,9
-" my summary for the movie
+tt5929776," my summary for the movie
 ",0.0,0.9074,2017-08-17 00:00:00,10
-" its about global warming
+tt5929776," its about global warming
 ",0.1531,0.8824,2017-07-18 00:00:00,10
-" global warming
+tt5929776," global warming
 ",0.1531,0.0917,2017-07-18 00:00:00,10
-" impact,destroy
+tt5929776," impact,destroy
 ",0.0,0.8793,2017-07-18 00:00:00,10
-" the global warming is real
+tt5929776," the global warming is real
 ",0.1531,-0.4039,2017-07-18 00:00:00,9
-" We have to think seriously about our earth. There are many people who worry about environment.
+tt5929776," We have to think seriously about our earth. There are many people who worry about environment.
 ",-0.5574,0.6514,2017-07-18 00:00:00,7
-" It lead you to realize you should think about global warming seriously.
+tt5929776," It lead you to realize you should think about global warming seriously.
 ",-0.0258,-0.291,2017-07-18 00:00:00,8
-" Before the Flood
+tt5929776," Before the Flood
 ",0.0,0.968,2017-06-08 00:00:00,8
-" ""Before the Flood""
+tt5929776," ""Before the Flood""
 ",0.0,0.9145,2017-06-08 00:00:00,10
-" Unbalanced (critical analyzed)
+tt5929776," Unbalanced (critical analyzed)
 ",0.0,0.957,2017-06-08 00:00:00,4
-" Before the flood
+tt5929776," Before the flood
 ",0.0,0.3103,2017-06-08 00:00:00,8
-" Before the flood
+tt5929776," Before the flood
 ",0.0,0.2793,2017-06-08 00:00:00,7
-" ""Before the flood""
+tt5929776," ""Before the flood""
 ",0.0,0.6295,2017-06-08 00:00:00,10
-" Before The Flood
+tt5929776," Before The Flood
 ",0.0,0.9886,2017-06-08 00:00:00,9
-" global warming
+tt5929776," global warming
 ",0.1531,0.9737,2017-06-07 00:00:00,6
-" shoking
+tt5929776," shoking
 ",0.0,0.549,2017-06-07 00:00:00,7
-" Global warming, not a tale
+tt5929776," Global warming, not a tale
 ",0.1531,-0.5486,2017-06-07 00:00:00,9
-" Face the climate change directly
+tt5929776," Face the climate change directly
 ",0.0,0.938,2017-06-07 00:00:00,10
-" awesome documentary movie
+tt5929776," awesome documentary movie
 ",0.6249,0.1859,2017-06-07 00:00:00,7
-" a climate change movie, one time again
+tt5929776," a climate change movie, one time again
 ",0.0,0.9788,2017-06-07 00:00:00,6
-" Excellent
+tt5929776," Excellent
 ",0.5719,0.8537,2017-05-18 00:00:00,10
-" My opinion about ''Before the flood''
+tt5929776," My opinion about ''Before the flood''
 ",0.0,0.1531,2017-05-18 00:00:00,10
-" before the flood
+tt5929776," before the flood
 ",0.0,0.875,2017-05-18 00:00:00,7
-" This could have some SPOILERS about he movie
+tt5929776," This could have some SPOILERS about he movie
 ",0.0,-0.7827,2017-05-18 00:00:00,10
-" .
+tt5929776," .
 ",0.0,-0.6908,2017-05-18 00:00:00,10
-" Contains everything related to Climate change issue
+tt5929776," Contains everything related to Climate change issue
 ",0.0,0.8769,2017-03-18 00:00:00,10
-" We have to notice climate change!
+tt5929776," We have to notice climate change!
 ",0.0,0.9391,2017-02-28 00:00:00,8
-" Avoids an inconvenient topic
+tt5929776," Avoids an inconvenient topic
 ",-0.4767,0.6369,2017-01-14 00:00:00,7
-" Definitely one of the most important movies of the year (arguably the most important)!
+tt5929776," Definitely one of the most important movies of the year (arguably the most important)!
 ",0.623,0.9898,2017-01-12 00:00:00,9
-" the only way to ""win"" the so-called War on Drugs is to decriminalize drugs
+tt4126304," the only way to ""win"" the so-called War on Drugs is to decriminalize drugs
 ",-0.5994,-0.9759,2020-12-30 00:00:00,10
-" Interesting
+tt4126304," Interesting
 ",0.4019,0.1531,2020-06-30 00:00:00,7
-" What happend to the Autodefensa movement
+tt4126304," What happend to the Autodefensa movement
 ",0.0,-0.9475,2020-06-28 00:00:00,7
-" Very powerful
+tt4126304," Very powerful
 ",0.4754,0.9423,2020-05-03 00:00:00,8
-" 9.06 of 10. Superbly shot and edited, with gripping subject.
+tt4126304," 9.06 of 10. Superbly shot and edited, with gripping subject.
 ",0.0,0.5859,2020-02-01 00:00:00,9
-" To much from US hero kind point of view
+tt4126304," To much from US hero kind point of view
 ",0.7906,0.6369,2019-12-01 00:00:00,1
-" Legalize not criminalize
+tt4126304," Legalize not criminalize
 ",0.0,-0.9169,2019-11-26 00:00:00,9
-" Documentary
+tt4126304," Documentary
 ",0.0,0.3818,2019-02-18 00:00:00,7
-" Liberal Hollywood propaganda
+tt4126304," Liberal Hollywood propaganda
 ",-0.25,-0.3716,2018-12-13 00:00:00,3
-" Stunning footage with a misguided narrative
+tt4126304," Stunning footage with a misguided narrative
 ",0.3818,-0.9857,2018-11-26 00:00:00,5
-" Eye opening
+tt4126304," Eye opening
 ",0.0,-0.9577,2018-07-28 00:00:00,9
-" Intense and Informative
+tt4126304," Intense and Informative
 ",0.0772,0.34,2018-03-04 00:00:00,7
-" Excellent Documentary! This documentary
+tt4126304," Excellent Documentary! This documentary
 ",0.6114,0.9919,2017-07-29 00:00:00,10
-" Great, greater, greatest!
+tt4126304," Great, greater, greatest!
 ",0.902,0.1513,2017-04-18 00:00:00,9
-" Like a drug, this documentary is also intensely highly addicting. A must watch
+tt4126304," Like a drug, this documentary is also intensely highly addicting. A must watch
 ",0.3612,-0.999,2017-02-14 00:00:00,8

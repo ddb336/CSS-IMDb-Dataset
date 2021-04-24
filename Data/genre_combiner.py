@@ -20,11 +20,18 @@ for row in csv_reader:
 csv_file.close()
 
 for genre in genre_dict:
+    with open('movies-per-genre/'+ genre +'_movies.csv', mode='w') as data_file:
+        data = csv.writer(data_file, delimiter=',')
+        for movie in genre_dict[genre]:
+            data.writerow([movie])
+
+
+for genre in genre_dict:
 
     with open('genres-combined/'+genre+'_reviews_combined.csv', mode='w') as data_file:
         data = csv.writer(data_file, delimiter=',')
 
-        data.writerow(['title','title_sentiment_score','text_sentiment_score','date','rating'])
+        data.writerow(['title_id','review_title','review_title_sentiment_score','review_text_sentiment_score','date','rating'])
         for movie in genre_dict[genre]:
         
             csv_file = open("filtered-with-sentiment/"+ movie +"_reviews_sentiment.csv")
@@ -35,7 +42,7 @@ for genre in genre_dict:
                 if first:
                     first = False
                     continue
-                data.writerow(row[:5])
+                data.writerow([movie] + row[:5])
 
             csv_file.close()
 
